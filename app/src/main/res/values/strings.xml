@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuuppaTagDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_setTagID">Set tag id</string>
+    <string name="action_setAdvMode">Set advertisement mode (TX rate)</string>
+    <string name="action_setAdvTxPower">Set advertisement TX power</string>
+    <string name="action_showAbout">About the app</string>
+</resources>

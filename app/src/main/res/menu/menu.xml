@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_setTagID"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_setTagID" />
+    <item android:id="@+id/action_setAdvMode"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_setAdvMode" />
+    <item android:id="@+id/action_setAdvTxPower"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_setAdvTxPower" />
+    <item android:id="@+id/action_showAbout"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_showAbout" />
+
+</menu>
